@@ -1,4 +1,4 @@
-class Myscript < Formula
+class PersonalHotspotSh < Formula
   desc "Script to connect to a personal hotspot on a Mac"
   homepage "https://github.com/tiktuk/personal-hotspot.git"
   url "https://raw.githubusercontent.com/tiktuk/personal-hotspot/refs/tags/v0.1/personal-hotspot.sh"
