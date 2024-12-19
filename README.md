@@ -1,5 +1,5 @@
 # homebrew-personal-hotspot
-Homebrew formula for personal-hotspot.sh
+Homebrew formula for [personal-hotspot.sh](https://github.com/tiktuk/personal-hotspot)
 
 ## Installation
 
